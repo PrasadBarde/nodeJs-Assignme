@@ -1,2 +1,2 @@
-# nodeJs-Assignme
+# nodeJs-Assignments
 all nodejs assignments
